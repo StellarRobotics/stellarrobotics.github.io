@@ -17,9 +17,9 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2022carv",
+      "defaultValue": "2022ohcl",
       "required": "true",
-      "disabled": "true"
+      "disabled": "false"
     },
     { "name": "Match Level",
       "code": "l",
